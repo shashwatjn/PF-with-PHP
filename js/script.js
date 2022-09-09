@@ -25,7 +25,7 @@ $(document).ready(function () {
     });
 
     var typed = new Typed(".typed", {
-        strings: ["Graphic Designer", "Web Developer", "Student"],
+        strings: ["CFA LEVEL 1 CANDIDATE", "EQUITY DERIVATIVE ANALYST", "RESEARCH ANALYST", "STUDENT FOR LIFE"],
         typeSpeed: 70,
         loop: true,
         startDelay: 400,
