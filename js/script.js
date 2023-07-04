@@ -25,7 +25,7 @@ $(document).ready(function () {
     });
 
     var typed = new Typed(".typed", {
-        strings: ["CFA LEVEL 1 CANDIDATE", "EQUITY DERIVATIVE ANALYST", "RESEARCH ANALYST"],
+        strings: ["CFA LEVEL 1 CLEARED", "EQUITY AND COMMODITY DERIVATIVE ANALYST","INVESTMENT ADVISOR", "RESEARCH ANALYST"],
         typeSpeed: 70,
         loop: true,
         startDelay: 400,
